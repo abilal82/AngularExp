@@ -26,12 +26,7 @@ const appRoutes : Routes = [
   {path:'login', component:LoginComponent}
 ]
 export const  firebaseConfig = {
-  apiKey: "AIzaSyBbBCxlNJru-K7jK-VIvMwgk5om8Ig-uy4",
-  authDomain: "clientpanel-9263.firebaseapp.com",
-  databaseURL: "https://clientpanel-9263.firebaseio.com",
- // projectId: "clientpanel-9263",
-  storageBucket: "clientpanel-9263.appspot.com",
-  messagingSenderId: "818665339878"
+ // Configuration removed
 };
 @NgModule({
   declarations: [
